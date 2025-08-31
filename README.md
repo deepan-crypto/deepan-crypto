@@ -3,7 +3,8 @@
 <h1 align="center">Hey there 👋, I'm Deepan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=66FFFF&center=true&vCenter=true&width=500&lines=A+good+developer+is+a+hacker+in+spirit:+curious,+persistent,+and+never+satisfied+with+limits;Code+is+my+Art;Elegance+in+Every+Function+Call" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=66FFFF&center=true&vCenter=true&width=700&lines=A+good+developer+is+a+hacker+in+spirit%3A+curious%2C+persistent%2C+and+never+satisfied+with+limits;Code+is+my+Art;Elegance+in+Every+Function+Call" alt="Typing SVG" />
+
 </p>
 
 ---
