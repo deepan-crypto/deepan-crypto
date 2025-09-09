@@ -3,7 +3,7 @@
 <h1 align="center">Hey there 👋, I'm Deepan</h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=66FFFF&center=true&vCenter=true&width=700&lines=A+good+developer+is+a+hacker+in+spirit%3A+curious%2C+persistent%2C+and+never+satisfied+with+limits;Code+is+my+Art;Elegance+in+Every+Function+Call" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=66FFFF&center=true&vCenter=true&width=700&lines=A+good+developer+in+spirit%3A+curious%2C+persistent%2C+and+never+satisfied+with+limits;Code+is+my+Art;Elegance+in+Every+Function+Call" alt="Typing SVG" />
 
 </p>
 
@@ -13,11 +13,6 @@
 
 <table align="center">
   <tr>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=deepan-crypto&theme=radical&border_radius=10&mode=weekly" alt="GitHub Streak"/>
-      </a>
-    </td>
     <td>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepan-crypto&layout=compact&langs_count=8&theme=radical"/>
     </td>
