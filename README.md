@@ -5,10 +5,7 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deepan%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20App%20Sec%20|%20AI%20Enthusiast&descSize=16&descAlignY=51"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Deepan+👋;Full+Stack+Developer+💻;Cloud+Engineer+☁️;AI%2FML+Learner+🧠" alt="Typing SVG" />
-</a>
+
 
 <br/>
 
@@ -41,7 +38,7 @@
 ---
 
 ### ⚙️ Backend & Databases
-| Node.js | Express.js | NestJS | Java | Spring Boot | MongoDB | MySQL |
+| Node.js | Express.js | Java | Spring Boot | MongoDB | MySQL |
 |----------|-------------|--------|-------|---------------|----------|--------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> |
 
