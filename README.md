@@ -32,7 +32,7 @@
 
 ---
 
-## ⚙️ Tech Arsenal
+## ⚙️ Tech Stack
 
 <div align="center">
 
@@ -68,6 +68,8 @@
 
 ### ⚙️ Backend & Databases
 <table align="center">
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
