@@ -1,18 +1,13 @@
-<!-- README.md for Deepan (deepan-crypto) -->
-
 <div align="center">
 
-<!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deepan%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20AppSec%20%26%20Web%20Security%20|%20Secure%20Developer%20|%20AI%20Enthusiast&descSize=16&descAlignY=51"/>
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Deepan+👋;Full+Stack+Developer+💻;AppSec+and+Web+Security+🔒;Secure+Developer+🧩;AI+Enthusiast+🤖" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
 <img src="https://komarev.com/ghpvc/?username=deepan-crypto&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepan-g-1b09b0378/)
@@ -68,9 +63,11 @@
 
 ### ⚙️ Backend & Databases
 <table align="center">
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
   <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
+      <br>Spring Boot
+    </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       <br>Node.js
@@ -146,9 +143,6 @@
   <a href="mailto:deepang467@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
   <br/><br/>
-  ⭐ *Star my repositories if you find them helpful!*  
-  <br/>
+  ⭐ *Star my repositories if you find them helpful!* <br/>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 </div>
-
-
