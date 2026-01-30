@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Deepan%20G&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Full%20Stack%20Developer%20|%20Data%20Engineering%20|%20Data%20Security%20|%20AI%20Enthusiast&amp;descSize=16&amp;descAlignY=51"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Deepan%20G&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Full%20Stack%20Developer%20|%20Data%20Engineer%20|%20Data%20Security%20|%20AI%20Enthusiast&amp;descSize=16&amp;descAlignY=51"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Hey+there!+I'm+Deepan+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Data+Engineer+in+Progress+%F0%9F%8F%97;Data+Security+Learner+%F0%9F%94%90;Machine+Learning+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
