@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deepan%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20|%20Data%20Engineer%20|%20Security-Focused%20Builder%20%20%20&descSize=16&descAlignY=51"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Deepan+👋;Software+Engineer+💻;Data+Engineer+📊;Building+Secure+and+Scalable+Systems+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Deepan+👋;Data+Engineer+💻;Software+Engineer+📊;Building+Secure+and+Scalable+Systems+🚀" />
 </a>
 
 <br/>
